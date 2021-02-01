@@ -1,6 +1,8 @@
 #BMI Calculator
 #Author Michal Sudol = GMIT G00398852@gmit.ie
 
+print('\n GMIT BMI v1 2021 - MS \n')
+
 def bmi():
      a = float(w)/(float(h)*float(h))
      return a
