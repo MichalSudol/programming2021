@@ -1,0 +1,14 @@
+Enter your Weigth (kg)65
+Enter your Height (cm)1.8
+Your BMI is : 20.061728395061728
+Do you want to try again?y/n:y
+Enter your Weigth (kg)65
+Enter your Height (cm)1.8
+Your BMI is : 20.061728395061728
+Do you want to try again?y/n:y
+Enter your Weigth (kg)65
+Enter your Height (m.cm)1.8
+Your BMI is : 20.061728395061728
+Do you want to try again?y/n:n
+Enjoy the healthy Day!!
+PS C:\Users\Mike\Desktop\GMIT\REPOSITORY>
