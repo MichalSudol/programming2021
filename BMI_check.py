@@ -16,8 +16,8 @@ if (bmi < 19):
 elif (bmi < 25):
     print('\n Your BMI result is :' + str(bmi) + '. You are: Healthy ')
 elif (bmi < 30):
-    print('\n Your BMI result is :' + str(bmi) + '. You are: Slight Overweight ')
+    print('\n Your BMI result is :' + str(bmi) + '. You are: Slightly Overweight ')
 else:
-    print('\n Your BMI result is :' + str(bmi) + '. You are: Slight Obese ')
+    print('\n Your BMI result is :' + str(bmi) + '. You are: Slightly Obese ')
 
-input('\n Thanks for using! press Enter to exit.')
+input('\n Thanks see you again! press Enter to exit.')
