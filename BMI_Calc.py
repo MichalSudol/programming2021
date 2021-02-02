@@ -1,7 +1,7 @@
 #BMI Calculator
 #Author Michal Sudol = GMIT G00398852@gmit.ie
 
-print('\n GMIT BMI v1 2021 - MS \n')
+print('\n GMIT BMI CALCULATOR v1 2021 - MS \n')
 
 def bmi():
      a = float(w)/(float(h)*float(h))
@@ -19,5 +19,5 @@ while again.lower() == "y":
 
     again = input("Do you want to try again?y/n:")
     if again == "n":
-        print('Enjoy the healthy Day!!');
+        print('Enjoy the healthy Day!!')
         break
