@@ -5,8 +5,8 @@
 import smtplib
 
 username = 'Jameson8ond@gmail.com'
-password = 'PPASS'
-toEmail = 'andrew.beatty@gmit.ie'
+password = 'Pass'
+toEmail = 'Jameson8ond@gmail.com'
 message = 'hi there greetings, this is test email from G00398852@gmit.ie'
 
 server = smtplib.SMTP('smtp.gmail.com', 587)
