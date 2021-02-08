@@ -1,5 +1,5 @@
 #2021 GMIT
-#Bitcoing Price Checker 
+#Bitcoin Price Checker 
 #Author Michal Sudol = GMIT G00398852@gmit.ie
 
 import requests 
