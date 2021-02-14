@@ -3,14 +3,12 @@
 #python squareroot.py 2021
 
 def newton_sq_rt(root_of):
-    '''Finds square root to minimum precision of 0.01 using Newton's method
-        of successive approximations'''
 
     # Start with initial guess of half the input value
     apxroot = root_of/2
     n = 0
     while abs(root_of - apxroot**2) > 0.01:
-        if n == 0: # I like to be grammatically correct :smiley:
+        if n == 0: 
             print("{} iteration,  guess is {}".format(n+1, round(apxroot,2)))
         else:
             print("{} iterations, guess is {}".format(n+1, round(apxroot,2)))
