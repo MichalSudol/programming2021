@@ -7,6 +7,6 @@
 # 4 Week collatz
 # 5 Week squareroot
 # 6 Week ez read Files
-# 7 Week 
+# 7 Week Regex extract the URLs from an access.log file
 # 8 Week 
 # 9 Week 
